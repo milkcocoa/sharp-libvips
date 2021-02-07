@@ -99,7 +99,7 @@ VERSION_PANGO=1.48.1
 VERSION_SVG=2.50.3
 VERSION_GIF=5.1.4
 VERSION_AOM=2.0.1
-VERSION_HEIF=1.10.0
+VERSION_HEIF=1.11.0
 
 # Remove patch version component
 without_patch() {
